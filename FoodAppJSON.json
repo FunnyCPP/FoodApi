@@ -1,0 +1,133 @@
+[
+  {
+    "popular":[
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "popularfood1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Extra special"
+      },
+      {
+        "name": "Rendang",
+        "imageUrl": "popularfood2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note":"Special"
+      },
+      {
+        "name": "Nasi Padang",
+        "imageUrl": "popularfood3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "199",
+        "note":"Chilly"
+      },
+      {
+        "name": "Indomie",
+        "imageUrl": "popularfood4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Spicy"
+      }],
+    "recommended": [
+       {
+        "name": "Rendang",
+        "imageUrl": "recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note":"Special"
+      },
+       {
+        "name": "Nasi Goreng",
+        "imageUrl": "recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Extra special"
+      },
+       {
+        "name": "Pece",
+        "imageUrl": "recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Special, Spicy"
+      }],
+    "allmenu": [
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "popularfood1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Extra special"
+      },
+      {
+        "name": "Rendang",
+        "imageUrl": "popularfood2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note":"Special"
+      },
+      {
+        "name": "Nasi Padang",
+        "imageUrl": "popularfood3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "199",
+        "note":"Chilly"
+      },
+      {
+        "name": "Indomie",
+        "imageUrl": "popularfood4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Spicy"
+      },
+       {
+        "name": "Rendang",
+        "imageUrl": "recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note":"Special"
+      },
+       {
+        "name": "Nasi Goreng",
+        "imageUrl": "recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Extra special"
+      },
+       {
+        "name": "Pece",
+        "imageUrl": "recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note":"Special, Spicy"
+      }]
+  }
+]
